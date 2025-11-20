@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 function Patos() {
   return (
     <ContenedorGlobal titulo="Nuestros Patos">
-      <p className="contenedor__texto-largo">
+      <p className="contenedor__texto-largo  mb-6">
         Coloridos, divertidos y coleccionables
       </p>
       <article>

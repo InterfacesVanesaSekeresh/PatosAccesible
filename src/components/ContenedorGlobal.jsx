@@ -8,7 +8,7 @@ function ContenedorGlobal({ titulo, children }) {
         {titulo && (
           <h1
             id="main-section-title"
-            className="contenedor__titulo mb-6"
+            className="contenedor__titulo mb-2"
           >
             {titulo}
           </h1>
