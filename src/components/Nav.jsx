@@ -31,7 +31,7 @@ function Nav() {
           <li role="none">
             <NavLink
               to="/"
-              className="contenedor__texto-normal px-2 py-1 text-sm sm:px-3 sm:py-2 sm:text-base md:px-4 md:py-2 md:text-lg rounded-md font-medium text-black hover:text-blue-900"
+              className="px-2 py-1 text-sm sm:px-3 sm:py-2 sm:text-base md:px-4 md:py-2 md:text-lg rounded-md font-medium text-black hover:text-blue-900"
               onClick={() => setIsOpen(false)}
               role="menuitem"
             >
@@ -41,7 +41,7 @@ function Nav() {
           <li role="none">
             <NavLink
               to="/patos"
-              className="contenedor__texto-normal px-2 py-1 text-sm sm:px-3 sm:py-2 sm:text-base md:px-4 md:py-2 md:text-lg rounded-md font-medium text-black hover:text-blue-900"
+              className="px-2 py-1 text-sm sm:px-3 sm:py-2 sm:text-base md:px-4 md:py-2 md:text-lg rounded-md font-medium text-black hover:text-blue-900"
               onClick={() => setIsOpen(false)}
               role="menuitem"
             >
@@ -56,7 +56,7 @@ function Nav() {
         <li role="none">
           <NavLink
             to="/"
-            className="contenedor__texto-normal px-2 py-1 text-sm sm:px-3 sm:py-2 sm:text-base md:px-4 md:py-2 md:text-lg rounded-md font-medium text-black hover:text-blue-900"
+            className="px-2 py-1 text-sm sm:px-3 sm:py-2 sm:text-base md:px-4 md:py-2 md:text-lg rounded-md font-medium text-black hover:text-blue-900"
             role="menuitem"
           >
             Inicio
@@ -65,7 +65,7 @@ function Nav() {
         <li role="none">
           <NavLink
             to="/patos"
-            className="contenedor__texto-normal px-2 py-1 text-sm sm:px-3 sm:py-2 sm:text-base md:px-4 md:py-2 md:text-lg rounded-md font-medium text-black hover:text-blue-900"
+            className="px-2 py-1 text-sm sm:px-3 sm:py-2 sm:text-base md:px-4 md:py-2 md:text-lg rounded-md font-medium text-black hover:text-blue-900"
             role="menuitem"
           >
             Catálogo

@@ -41,7 +41,13 @@
 
 ![Menú hamburguesa móvil](image-11.png)
 
----
-## Debe aparecer en la consola del navegador console.log(información)
 
-![Console.log](image-8.png)
+## Pie de página más sencillo en móvil
+
+![Pantalla grande footer](image-16.png)
+
+![Pantalla pequeña foooter](image-17.png)
+
+## El logo lleva al inicio de la página
+
+![Logo con código](image-18.png)
